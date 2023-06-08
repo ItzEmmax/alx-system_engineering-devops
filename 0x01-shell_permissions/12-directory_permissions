@@ -1,0 +1,2 @@
+find 0x01-shell . -type d -exec chmod 111 {} \;
+mkdir -m 751 my_dir
