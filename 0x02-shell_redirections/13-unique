@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "I" | tr ' ' '\n' | sort | uniq -d
+echo " " | tr ' ' '\n' | sort | uniq -d
